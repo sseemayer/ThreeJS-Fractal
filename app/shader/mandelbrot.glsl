@@ -33,3 +33,5 @@ void main() {
 
 
 }
+
+/* vim: set filetype=glsl: */
